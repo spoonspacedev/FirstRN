@@ -46,7 +46,7 @@ render() {
             Hello world!
           </Text>
         <Button
-  onPress={this.onPress}
+  onPress={this.onPress} 
   title="Learn More"
   color="#841584"
   accessibilityLabel="Learn more about this purple button"
